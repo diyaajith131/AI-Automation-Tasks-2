@@ -1,0 +1,10 @@
+ bash
+    # Stage the new files
+    git add Task2/
+
+    # Commit the changes
+    git commit -m "Complete Task 2: Add n8n Docker setup"
+
+    # Push to your remote repository
+    git push
+   
